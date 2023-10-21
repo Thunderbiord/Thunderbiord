@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @Thunderbiord
 - 👀 I’m interested in ... Web3 and NFTs
-- 🌱 I’m currently learning ... JavaScript
