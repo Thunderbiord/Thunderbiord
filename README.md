@@ -5,7 +5,7 @@ I'm Thunderbiord I primarily develop tools for Ethereum and EVM compatible block
 **Langauges**
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white"/>
@@ -28,6 +28,6 @@ I'm Thunderbiord I primarily develop tools for Ethereum and EVM compatible block
 
 <div display="flex">
   <a href="">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
   </a>
 </div>
