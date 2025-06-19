@@ -6,9 +6,9 @@ I'm Thunderbiord I primarily develop tools for Ethereum and EVM compatible block
 
 <div display="flex">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white"/>
 </div>
 
 ### 🔭 I’m working on
@@ -19,7 +19,9 @@ I'm Thunderbiord I primarily develop tools for Ethereum and EVM compatible block
 ### 🌱 I’m learning
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white"/>
 </div>
 
 ### 📫 How to reach me
