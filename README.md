@@ -6,7 +6,6 @@ I'm Thunderbiord I primarily develop tools for Ethereum and EVM compatible block
 
 <div display="flex">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white"/>
 </div>
